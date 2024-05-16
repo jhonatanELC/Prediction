@@ -16,3 +16,7 @@ Los datos de entrada son 48 valores correspondientes a la demanda de la energia 
 Actualizaciones:
 
 - Se volvio a realizar pruebas con el modelo lstm-2 del cual se obtubo un MAPE del 2.82%, se utilizo 96 datos de entrada y 48 valores de salida
+
+Link de la publicación:
+ 
+https://renati.sunedu.gob.pe/handle/sunedu/3441142
